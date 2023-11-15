@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Camelot</string>
+    <string name="artist_title_format">%s - %s</string>
+</resources>
